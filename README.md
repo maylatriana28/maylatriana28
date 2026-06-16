@@ -1,4 +1,4 @@
-<h1 align="center">🌷 Mayla Triana Ratu🌷</h1>
+<h1 align="center">🌷Mayla Triana Ratu🌷</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Informatics+Student;Data+Science+Enthusiast;Exploring+Machine+Learning+and+AI;Learning+Through+Projects+and+Practice" />
@@ -10,7 +10,21 @@
 
 Hi! I'm Mayla, an Informatics student exploring Data Science, Machine Learning, and AI through projects, coursework, and continuous learning.
 
-✨ Every repository here is part of my learning journey.
+Every repository here is part of my learning journey✨ 
+
+
+<sub>Find Me Here: </sub>
+<p>
+  <a href="mailto:maylatriana28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="22" />
+  </a>
+  <a href="https://www.linkedin.com/in/mayla-triana-ratu-9b99b5349">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="22" />
+  </a>
+  <a href="https://www.instagram.com/maylatriana_">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" />
+  </a>
+</p>
 
 ---
 
@@ -22,7 +36,7 @@ Hi! I'm Mayla, an Informatics student exploring Data Science, Machine Learning, 
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-<h3 align="center">Data Science Libraries</h3>
+<h3 align="center">Libraries</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
