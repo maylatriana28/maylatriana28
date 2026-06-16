@@ -1,7 +1,7 @@
-<h1 align="center">🌷Mayla Triana Ratu🌷</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Informatics+Student;Data+Science+Enthusiast;Exploring+Machine+Learning+and+AI;Learning+Through+Projects+and+Practice" />
+  <img src="assets/header.png" width="100%">
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=ffabd5&center=true&vCenter=true&width=650&lines=Informatics+Student;Data+Science+Enthusiast;Exploring+Machine+Learning+and+AI;Learning+Through+Projects+and+Practice" />
 </p>
 
 ---
